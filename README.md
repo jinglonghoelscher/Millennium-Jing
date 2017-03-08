@@ -2,6 +2,7 @@
 Millennium interview test solution
 
 Enclosed is the solution to the interview test, which includes:
+
 1. A word file with descriptive solution and copied codes.
 
 2. One R file which has the R code.
