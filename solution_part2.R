@@ -4,7 +4,7 @@
 ####################################################    
 ###                                              ###
 ### To run this script                           ###
-### first uncomment the last line #main()        ###
+### first uncomment the last line #main(path="") ###
 ### change to the correct path for pos and trd   ###
 ### and run the whole script                     ###
 ####################################################
@@ -136,4 +136,4 @@ main<-function(path=""){
   return(0)
 }
 
-main(path="")
+#main(path="")
