@@ -13,4 +13,7 @@ Enclosed are the solutions to the interview test and they include:
    
    c. test_solution_part2.R and run_tests.R contains the solutions to the unit test of the problem "Position calculator"
 
-4. Various csv files which are the outputs specified in the pdf file.
+3. Various csv files which are the outputs specified in the pdf file.
+
+4. The two original csv files: pos.csv and trd.csv.
+
