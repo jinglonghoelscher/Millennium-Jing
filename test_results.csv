@@ -1,0 +1,11 @@
+"file","context","test","nb","failed","skipped","error","warning","user","system","real"
+"test_solution_part2.R","","invalid username",3,1,FALSE,FALSE,0,0.019999999999996,0,0.0199999999967986
+"test_solution_part2.R","","valid two usernames",3,0,FALSE,FALSE,0,0,0,0
+"test_solution_part2.R","","valid one username",3,0,FALSE,FALSE,0,0.00999999999999091,0,0.0100000000020373
+"test_solution_part2.R","","invalid symbol",4,2,FALSE,FALSE,0,0,0,0
+"test_solution_part2.R","","valid multi symbols",3,0,FALSE,FALSE,0,0,0,0
+"test_solution_part2.R","","NULL symbols",5,3,FALSE,FALSE,0,0.189999999999998,0.0600000000000023,0.25
+"test_solution_part2.R","","NULL usernames",5,3,FALSE,FALSE,0,0.0300000000000011,0,0.0299999999988358
+"test_solution_part2.R","","invalid usernames",10,3,FALSE,FALSE,5,0.039999999999992,0,0.0499999999956344
+"test_solution_part2.R","","invalid symbol",10,3,FALSE,FALSE,5,0.0500000000000114,0,0.0400000000008731
+"test_solution_part2.R","","valid multi symbols",6,0,FALSE,FALSE,1,0.019999999999996,0,0.0200000000040745
