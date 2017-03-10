@@ -1,7 +1,7 @@
 # Millennium-Jing
 Millennium interview test solution
 
-Enclosed are the solutions to the interview test, which include:
+Enclosed are the solutions to the interview test and they include:
 
 1. A pdf file with descriptive solution and partial codes.
 
