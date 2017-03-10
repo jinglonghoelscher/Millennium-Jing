@@ -3,7 +3,7 @@ Millennium interview test solution
 
 Enclosed are the solutions to the interview test and they include:
 
-1. A pdf file with descriptive solution and partial codes.
+1. A pdf file Solutions.pdf with descriptive solution and partial codes.
 
 2. Four R files:
     
